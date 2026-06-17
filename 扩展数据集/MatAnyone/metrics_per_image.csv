@@ -1,0 +1,6 @@
+id,image,alpha,prompt,prediction,mae,mse,sad
+resize_image__2,resize_image/2.jpg,resize_alpha/2.png,D:\视觉认知工程作业\扩展数据集\MatAnyone\prompt\resize_image__2.png,D:\视觉认知工程作业\扩展数据集\MatAnyone\alpha\resize_image__2.png,0.013670947402715683,0.005169056821614504,14.335027694702148
+resize_image__4,resize_image/4.jpg,resize_alpha/4.png,D:\视觉认知工程作业\扩展数据集\MatAnyone\prompt\resize_image__4.png,D:\视觉认知工程作业\扩展数据集\MatAnyone\alpha\resize_image__4.png,0.18252965807914734,0.11383071541786194,191.39622497558594
+resize_image__5,resize_image/5.jpg,resize_alpha/5.png,D:\视觉认知工程作业\扩展数据集\MatAnyone\prompt\resize_image__5.png,D:\视觉认知工程作业\扩展数据集\MatAnyone\alpha\resize_image__5.png,0.005583980120718479,0.0008026623399928212,5.855227470397949
+resize_image__8,resize_image/8.jpg,resize_alpha/8.png,D:\视觉认知工程作业\扩展数据集\MatAnyone\prompt\resize_image__8.png,D:\视觉认知工程作业\扩展数据集\MatAnyone\alpha\resize_image__8.png,0.0032052057795226574,0.0015093338442966342,3.3609018325805664
+resize_image__10,resize_image/10.jpg,resize_alpha/10.png,D:\视觉认知工程作业\扩展数据集\MatAnyone\prompt\resize_image__10.png,D:\视觉认知工程作业\扩展数据集\MatAnyone\alpha\resize_image__10.png,0.006721014156937599,0.0026222357992082834,7.047493934631348

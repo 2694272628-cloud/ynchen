@@ -1,0 +1,16 @@
+{
+  "count": 5,
+  "mae": 0.0175277060829103,
+  "mse": 0.002786929672583938,
+  "sad": 18.379131984710693,
+  "config": {
+    "dataset_root": "D:\\视觉认知工程作业\\扩展数据集",
+    "split": "D:\\视觉认知工程作业\\扩展数据集\\splits\\test.txt",
+    "pred_dir": "D:\\视觉认知工程作业\\扩展数据集\\ViTMatte_k15\\alpha\\PM_k15",
+    "pred_pattern": "{id}.png",
+    "prompt_dir": "D:\\视觉认知工程作业\\扩展数据集\\ViTMatte_k15\\prompt",
+    "prompt_pattern": null,
+    "resize_pred": true,
+    "vis_dir": "D:\\视觉认知工程作业\\扩展数据集\\ViTMatte_k15\\vis"
+  }
+}

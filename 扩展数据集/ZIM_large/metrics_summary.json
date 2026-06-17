@@ -1,0 +1,16 @@
+{
+  "count": 5,
+  "mae": 0.02092020371928811,
+  "mse": 0.00534056422766298,
+  "sad": 21.93642349243164,
+  "config": {
+    "dataset_root": "D:\\视觉认知工程作业\\扩展数据集",
+    "split": "D:\\视觉认知工程作业\\扩展数据集\\splits\\test.txt",
+    "pred_dir": "D:\\视觉认知工程作业\\扩展数据集\\ZIM_large\\alpha",
+    "pred_pattern": "{id}.png",
+    "prompt_dir": "D:\\视觉认知工程作业\\扩展数据集\\ZIM_large\\prompt",
+    "prompt_pattern": null,
+    "resize_pred": true,
+    "vis_dir": "D:\\视觉认知工程作业\\扩展数据集\\ZIM_large\\vis"
+  }
+}

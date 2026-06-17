@@ -1,0 +1,6 @@
+id,image,alpha,prompt,prediction,mae,mse,sad
+resize_image__2,resize_image/2.jpg,resize_alpha/2.png,D:\视觉认知工程作业\扩展数据集\SDMatte\prompt\2.png,D:\视觉认知工程作业\扩展数据集\SDMatte\alpha\2.png,0.011113305576145649,0.0029803533107042313,11.653145790100098
+resize_image__4,resize_image/4.jpg,resize_alpha/4.png,D:\视觉认知工程作业\扩展数据集\SDMatte\prompt\4.png,D:\视觉认知工程作业\扩展数据集\SDMatte\alpha\4.png,0.09797939658164978,0.03294466808438301,102.73884582519531
+resize_image__5,resize_image/5.jpg,resize_alpha/5.png,D:\视觉认知工程作业\扩展数据集\SDMatte\prompt\5.png,D:\视觉认知工程作业\扩展数据集\SDMatte\alpha\5.png,0.006591396406292915,0.0010353134712204337,6.9115800857543945
+resize_image__8,resize_image/8.jpg,resize_alpha/8.png,D:\视觉认知工程作业\扩展数据集\SDMatte\prompt\8.png,D:\视觉认知工程作业\扩展数据集\SDMatte\alpha\8.png,0.004473177716135979,0.0024910494685173035,4.69046688079834
+resize_image__10,resize_image/10.jpg,resize_alpha/10.png,D:\视觉认知工程作业\扩展数据集\SDMatte\prompt\10.png,D:\视觉认知工程作业\扩展数据集\SDMatte\alpha\10.png,0.0056052375584840775,0.002010793425142765,5.8775177001953125

@@ -1,0 +1,16 @@
+{
+  "count": 5,
+  "mae": 0.04234216110780835,
+  "mse": 0.024786800844594836,
+  "sad": 44.39897518157959,
+  "config": {
+    "dataset_root": "D:\\视觉认知工程作业\\扩展数据集",
+    "split": "D:\\视觉认知工程作业\\扩展数据集\\splits\\test.txt",
+    "pred_dir": "D:\\视觉认知工程作业\\扩展数据集\\MatAnyone\\alpha",
+    "pred_pattern": "{id}.png",
+    "prompt_dir": "D:\\视觉认知工程作业\\扩展数据集\\MatAnyone\\prompt",
+    "prompt_pattern": null,
+    "resize_pred": true,
+    "vis_dir": "D:\\视觉认知工程作业\\扩展数据集\\MatAnyone\\vis"
+  }
+}

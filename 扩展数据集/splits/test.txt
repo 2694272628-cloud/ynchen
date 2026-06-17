@@ -1,0 +1,5 @@
+resize_image/2.jpg	resize_alpha/2.png
+resize_image/4.jpg	resize_alpha/4.png
+resize_image/5.jpg	resize_alpha/5.png
+resize_image/8.jpg	resize_alpha/8.png
+resize_image/10.jpg	resize_alpha/10.png

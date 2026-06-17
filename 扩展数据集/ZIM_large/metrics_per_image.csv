@@ -1,0 +1,6 @@
+id,image,alpha,prompt,prediction,mae,mse,sad
+resize_image__2,resize_image/2.jpg,resize_alpha/2.png,D:\视觉认知工程作业\扩展数据集\ZIM_large\prompt\2.jpg,D:\视觉认知工程作业\扩展数据集\ZIM_large\alpha\2.png,0.008583663031458855,0.0018790236208587885,9.000622749328613
+resize_image__4,resize_image/4.jpg,resize_alpha/4.png,D:\视觉认知工程作业\扩展数据集\ZIM_large\prompt\4.jpg,D:\视觉认知工程作业\扩展数据集\ZIM_large\alpha\4.png,0.0703105479478836,0.018427351489663124,73.7259521484375
+resize_image__5,resize_image/5.jpg,resize_alpha/5.png,D:\视觉认知工程作业\扩展数据集\ZIM_large\prompt\5.jpg,D:\视觉认知工程作业\扩展数据集\ZIM_large\alpha\5.png,0.016466990113258362,0.0024287754204124212,17.266891479492188
+resize_image__8,resize_image/8.jpg,resize_alpha/8.png,D:\视觉认知工程作业\扩展数据集\ZIM_large\prompt\8.jpg,D:\视觉认知工程作业\扩展数据集\ZIM_large\alpha\8.png,0.004737113602459431,0.002633374184370041,4.967223644256592
+resize_image__10,resize_image/10.jpg,resize_alpha/10.png,D:\视觉认知工程作业\扩展数据集\ZIM_large\prompt\10.jpg,D:\视觉认知工程作业\扩展数据集\ZIM_large\alpha\10.png,0.0045027039013803005,0.001334296423010528,4.7214274406433105
